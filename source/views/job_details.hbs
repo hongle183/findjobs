@@ -1,0 +1,157 @@
+<main>
+    <!-- Hero Area Start-->
+    <div class="container">
+        <div class='slider-area'>
+            <div class='single-slider section-overly slider-height2 d-flex align-items-center'
+                data-background='/img/hero/about.jpg'>
+                <div class='container'>
+                    <div class='row'>
+                        <div class='col-xl-12'>
+                            <div class='hero-cap text-center'>
+                                <h2>Chi tiết tuyển dụng</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Hero Area End -->
+    {{#if job}}
+    <!-- job post company Start -->
+    <div class='job-post-company pt-60 pb-60'>
+        <div class='container'>
+            <div class='row justify-content-between'>
+                <!-- Left Content -->
+                <div class='col-xl-8 col-lg-8 pr-5'>
+                    <!-- job single -->
+                    <div class='single-job-items mb-10'>
+                        <div class='job-items row d-flex'>
+                            <div class='company-img d-flex' style="column-width:80px;">
+                                <a class="align-self-center" href=''>
+                                    <img src='{{job.company.img}}' alt='logo' />
+                                </a>
+                            </div>
+                            <div class='job-tittle col align-self-center'>
+                                <a href=''>
+                                    <h4>{{job.name}}</h4>
+                                </a>
+                                <ul>
+                                    <li>{{job.company.name}}</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- job single End -->
+
+                    <div class='job-post-details'>
+                        <div class='post-details2 mb-30'>
+                            <!-- Small Section Tittle -->
+                            <div class='small-section-tittle'>
+                                <h4>Nơi làm việc</h4>
+                            </div>
+                            <ul>
+                                {{#each job.place}}
+                                <li>{{{this}}}</li>
+                                {{/each}}
+                            </ul>
+                        </div>
+                        <div class='post-details2 mb-30'>
+                            <!-- Small Section Tittle -->
+                            <div class='small-section-tittle'>
+                                <h4>Mô tả công việc</h4>
+                            </div>
+                            <ul>
+                                {{#each job.desc}}
+                                <li>{{{this}}}</li>
+                                {{/each}}
+                            </ul>
+                        </div>
+                        <div class='post-details2 mb-30'>
+                            <!-- Small Section Tittle -->
+                            <div class='small-section-tittle'>
+                                <h4>Yêu cầu ứng viên</h4>
+                            </div>
+                            <ul>
+                                {{#each job.require}}
+                                <li>{{{this}}}</li>
+                                {{/each}}
+                            </ul>
+                        </div>
+                        <div class='post-details2 mb-30'>
+                            <!-- Small Section Tittle -->
+                            <div class='small-section-tittle'>
+                                <h4>Quyền lợi</h4>
+                            </div>
+                            <ul>
+                                {{#each job.benefit}}
+                                <li>{{{this}}}</li>
+                                {{/each}}
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- Right Content -->
+                <div class='col-xl-4 col-lg-4'>
+                    <div class='post-details3 mb-30'>
+                        <!-- Small Section Tittle -->
+                        <div class='small-section-tittle'>
+                            <h4>Thông tin chung</h4>
+                        </div>
+                        <ul>
+                            <li>
+                                <span class="flex-grow-1"><i class="fa-regular fa-calendar-plus mr-2"></i>Ngày
+                                    đăng:</span>
+                                <span class="justify-content-end">{{job.createAt}}</span>
+                            </li>
+                            <li>
+                                <span class="flex-grow-1"><i class="fa-regular fa-calendar-xmark mr-2"></i>Hạn ứng tuyển:</span>
+                                <span class="justify-content-end">{{job.deadline}}</span>
+                            </li>
+                            <li>
+                                <span class="flex-grow-1"><i class="fa-solid fa-users-viewfinder mr-2"></i>Số lượng
+                                    tuyển:</span>
+                                <span class="justify-content-end">{{job.slot}}</span>
+                            </li>
+                            <li>
+                                <span class="flex-grow-1"><i class="fa-solid fa-clock mr-2"></i>Hình thức làm
+                                    việc:</span>
+                                <span class="justify-content-end">{{job.job_type}}</span>
+                            </li>
+                            <li><span class="flex-grow-1"><i class="fa-solid fa-dollar-sign mr-2"></i>Mức lương:</span>
+                                <span class="justify-content-end">{{job.salary}}</span>
+                            </li>
+                            <li><span class="flex-grow-1"><i class="fa-regular fa-user mr-2"></i>Vị trí</span>
+                                <span class="justify-content-end">{{job.position}}</span>
+                            </li>
+                        </ul>
+                        <div class='apply-btn2 text-center'>
+                            <a href='#' class='btn'>Apply Now</a>
+                        </div>
+                    </div>
+                    <div class='post-details4 mb-30'>
+                        <!-- Small Section Tittle -->
+                        <div class='small-section-tittle'>
+                            <h4>Thông tin</h4>
+                        </div>
+                        <span>{{job.company.name}}</span>
+                        <p>{{job.company.desc}}</p>
+                        <ul>
+                            <li>Địa chỉ:
+                                <ul>
+                                    {{#each job.company.place}}
+                                    <li><span>{{this}}</span></li>
+                                    {{/each}}
+                                </ul>
+                            </li>
+                            <li>Website: <span>{{job.company.website}}</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- job post company End -->
+    {{/if}}
+</main>

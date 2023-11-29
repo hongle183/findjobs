@@ -1,0 +1,151 @@
+<main>
+    <!-- Hero Area Start-->
+    <div class="container">
+        <div class='slider-area'>
+            <div class='single-slider section-overly slider-height2 d-flex align-items-center'
+                data-background='/img/hero/about.jpg'>
+                <div class='container'>
+                    <div class='row'>
+                        <div class='col-xl-12'>
+                            <div class='hero-cap text-center'>
+                                <h2>Chi tiết công ty</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Hero Area End -->
+    {{#if company}}
+    <div class='job-post-company pt-60 pb-60'>
+        <div class='container'>
+            <div class='row justify-content-between'>
+                <!-- Left Content -->
+                <div class='col-xl-8 col-lg-8 pr-5'>
+                    <!-- Companyinfo Start -->
+                    <div class='single-job-items mb-10'>
+                        <div class='job-items row d-flex'>
+                            <div class='company-img d-flex' style="column-width:80px;">
+                                <a class="align-self-center" href=''>
+                                    <img src='{{company.logo}}' alt='logo' />
+                                </a>
+                            </div>
+                            <div class='job-tittle col align-self-center'>
+                                <h4>{{company.name}}</h4>
+                                <ul>
+                                    <li>
+                                        <span class="flex-grow-1"><i class="fa-regular fa-calendar-plus mr-2"></i>Ngày
+                                            tham gia:</span>
+                                        <span class="justify-content-end">{{company.createAt}}</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Companyinfo End -->
+                    <!-- Right Content Start-->
+                    <div class='job-post-details'>
+                        <div class='post-details mb-30'>
+                            <!-- Small Section Tittle -->
+                            <div class='small-section-tittle'>
+                                <h4>Giới thiệu công ty</h4>
+                            </div>
+                            <ul>
+                                {{#each company.desc}}
+                                <li>{{this}}</li>
+                                {{/each}}
+                            </ul>
+                        </div>
+                    </div>
+                    <!--Right Content End-->
+                </div>
+                <!--Company Details Start-->
+                <div class='col-xl-4 col-lg-4'>
+                    <div class='post-details3 mb-30'>
+                        <!-- Small Section Tittle -->
+                        <div class='small-section-tittle'>
+                            <h4>Thông tin chung</h4>
+                        </div>
+                        <ul>
+                            <li>
+                                <span class="flex-grow-1"><i class="fa-solid fa-link mr-2"></i>Website:</span>
+                                <span class="justify-content-end"> <a href="{{company.website}}" target="_blank"
+                                        style="color: rgb(241, 157, 12);">{{company.website}}</a></span>
+                            </li>
+                            <li>
+                                <span class="flex-grow-1"><i class="fa-solid fa-location-arrow mr-2"></i>Địa chỉ:</span>
+                            </li>
+                            <li>
+                                <ul>
+                                    {{#each company.place}}
+                                    <li> - {{this}}</li>
+                                    {{/each}}
+                                </ul>
+                            </li>
+                            <li>
+                                <span class="flex-grow-1"><i class="fa-solid fa-users-viewfinder mr-2"></i>Quy mô công
+                                    ty:</span>
+                                <span class="justify-content-end">50-100</span>
+                            </li>
+                        </ul>
+                        <div class='apply-btn2 text-center'>
+                            <a href='#' class='btn'>Theo dõi công ty</a>
+                        </div>
+                    </div>
+
+                </div>
+                <!--Company Details End-->
+            </div>
+
+            <!-- Tuyển dụng Start-->
+            <div class="row">
+                <div class='post-details2 mb-30 col-12'>
+                    <!-- Small Section Tittle -->
+                    <div class='small-section-tittle'>
+                        <h4>Tuyển dụng</h4>
+                    </div>
+                    <div class='row'>
+                        <div class='mx-auto'>
+                            {{#each jobs}}
+                            <!-- single-job-content -->
+                            <div class='single-job-items mb-10 row'>
+                                <div class="col-12 col-md-10">
+                                    <div class='job-items row d-flex'>
+                                        <div class='company-img d-flex align-self-center' style="column-width:80px;">
+                                            <a href='/jobs/{{_id}}'>
+                                                <img src='{{company.img}}' alt='logo' />
+                                            </a>
+                                        </div>
+                                        <div class='job-tittle col align-self-center'>
+                                            <a href='/jobs/{{_id}}'>
+                                                <h4>{{name}}</h4>
+                                            </a>
+                                            <ul>
+                                                <li>{{company.name}}</li>
+                                                <li><i class="fa-solid fa-location-dot"></i>{{place}}</li>
+                                                <li><i class="fa-solid fa-dollar-sign"></i>{{salary}}</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="items-link col-4 col-md-2 align-self-center justify-content-center">
+                                    <div class="row">
+                                        <form action="/user/bookmark/{{_id}}" method="post">
+                                            <button type="submit" class="square" title="Save"><i class="fa-regular fa-heart"></i></button>
+                                        </form>
+                                        <a class="apply" href='/jobs/{{_id}}'>Ứng tuyển</a>
+                                    </div>
+                                    <span><i class="fa-regular fa-calendar-days"></i> {{deadline}}</span>
+                                </div>
+                            </div>
+                            {{/each}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Tuyển dụng End-->
+        </div>
+    </div>
+    {{/if}}
+</main>

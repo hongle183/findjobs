@@ -1,0 +1,130 @@
+<link rel="stylesheet" href="/css/nice-select.css">
+<main>
+    <!-- Hero Area Start-->
+    <div class="container">
+        <div class='slider-area'>
+            <div class='single-slider section-overly slider-height2 d-flex align-items-center'
+                data-background='/img/hero/about.jpg'>
+                <div class='container'>
+                    <div class='row'>
+                        <div class='col-xl-12'>
+                            <div class='hero-cap text-center'>
+                                <h2>Các nhà tuyển dụng</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Hero Area End -->
+    <!-- Company List Area Start -->
+    <div class='job-listing-area pt-60 pb-0'>
+        <div class='container'>
+            <div class='row'>
+                <div class='col-xl-12 col-lg-12 find-job'>
+                    <!-- Select job items Start -->
+                    <form class="form-inline" action="/companies/search" method="POST">
+                        <input type="text" class="single-input-primary m-2" style="min-width: 300px;"
+                            placeholder="Tìm kiếm công ty..." name="searchTerm" title="Tìm kiếm công ty...">
+                        <div class='select-job-items2 m-2'>
+                            <select name='Place'>
+                                <option value='diadiem'>Tất cả địa điểm</option>
+                                <option value='Hà Nội'>Hà Nội</option>
+                                <option value='Hồ Chí Minh'>Hồ Chí Minh</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-search m-2"><i class='fas fa-search'></i>
+                            Search</button>
+                    </form>
+                    <!-- Select job items End -->
+                    <!-- Sort items Start -->
+                    <div class='select-job-items2 m-2'>
+                        <span>Sort by</span>
+                        <select id="select" name='select' onchange="sort()">
+                            <option value='sortaz' selected>A - Z</option>
+                            <option value='sortza'>Z - A</option>
+                        </select>
+                    </div>
+                    <!--  Sort items End-->
+                </div>
+            </div>
+            <!-- Count of Job list Start -->
+            <div class='row mb-30 mr-2 flex-row-reverse'>
+                <span style="font-size: 90%;">{{companies.length}} Companies found</span>
+            </div>
+            <!-- Count of Job list End -->
+            <div class='row'>
+                {{#each companies}}
+                <!-- single-company-content -->
+                <div class="col-xl-6 col-lg-6 col-md-6 ">
+                    <div class='single-job-items mb-10 row'>
+                        <div class="col-10 col-md-10">
+                            <div class='job-items row d-flex'>
+                                <div class='company-img d-flex align-self-center' style="column-width:80px;">
+                                    <a href='/companies/{{_id}}'>
+                                        <img src='{{logo}}' alt='logo' />
+                                    </a>
+                                </div>
+                                <div class='job-tittle col align-self-center'>
+                                    <a href='/companies/{{_id}}'>
+                                        <h6>{{name}}</h6>
+                                    </a>
+                                    <ul>
+                                        <li><i class="fa-solid fa-location-dot"></i>{{place}}</li>
+                                        <li><i class="fa-solid fa-check-double"></i>{{category}}</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="items-link col-2 col-md-2 align-self-center">
+                            <div class="row justify-content-center">
+                                <a href='/companies/{{_id}}'>Chi tiết</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+
+        </div>
+        <!-- Featured_company_end -->
+        <!--Pagination Start  -->
+        <div class='pagination-area pb-100 text-center'>
+            <div class='container'>
+                <div class='row'>
+                    <div class='col-xl-12'>
+                        <div class='single-wrap d-flex justify-content-center'>
+                            <nav aria-label='Page navigation example'>
+                                <ul class='pagination justify-content-start'>
+                                    <li class='page-item active'><a class='page-link' href='#'>01</a></li>
+                                    <li class='page-item'><a class='page-link' href='#'>02</a></li>
+                                    <li class='page-item'><a class='page-link' href='#'>03</a></li>
+                                    <li class='page-item'><a class='page-link' href='#'><span
+                                                class='ti-angle-right'></span></a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Pagination End  -->
+    </div>
+    <!-- Company List Area End -->
+</main>
+
+<script>
+    const select = document.getElementById('select');
+    if (window.location.href.includes('/sort/')) {
+        var sortby = window.location.href.split('/');
+        sortby = sortby[sortby.length - 1];
+        if (sortby === 'sortza')
+            select.value = 'sortza';
+    }
+
+    function sort() {
+        const select = document.getElementById('select');
+        window.location = `http://localhost:3000/companies/sort/${select.value}`;
+    }
+</script>

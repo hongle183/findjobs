@@ -1,0 +1,94 @@
+<header>
+    <!-- Preloader Start -->
+    <div id='preloader-active'>
+        <div class='preloader d-flex align-items-center justify-content-center'>
+            <div class='preloader-inner position-relative'>
+                <div class='preloader-circle'></div>
+                <div class='preloader-img pere-text'>
+                    <img src='/img/logo/logo.png' alt='' />
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Preloader Start -->
+    <!-- Header Start -->
+    <div class='header-area header-transparrent'>
+        <div class='headder-top header-sticky'>
+            <div class='container'>
+                <div class='row align-items-center'>
+                    <div class='col-lg-3 col-md-2'>
+                        <!-- Logo -->
+                        <div class='logo'>
+                            <a href='/'><img src='/img/logo/logo.png' alt=''
+                                    style="max-height: 90px; padding: 8px 0px;" /></a>
+                        </div>
+                    </div>
+                    <div class='col-lg-9 col-md-9'>
+                        <div class='menu-wrapper'>
+                            <!-- Main-menu -->
+                            <div class='main-menu'>
+                                <nav class='d-none d-lg-block'>
+                                    <ul id='navigation'>
+                                        <li><a href='/'>Trang chủ</a></li>
+                                        <li><a href='/jobs'>Việc làm</a></li>
+                                        {{!-- <li><a href='/blog' style="pointer-events: none">Blog</a></li> --}}
+                                        {{! <li><a href="#">Page</a>
+                                            <ul class="submenu">
+                                                <li><a href="blog.html">Blog</a></li>
+                                                <li><a href="single-blog.html">Blog Details</a></li>
+                                                <li><a href="elements.html">Elements</a></li>
+                                                <li><a href="/job_details">job Details</a></li>
+                                            </ul>
+                                        </li> }}
+                                        <li><a href='/companies'>Công ty</a></li>
+                                        <li><a href='/contact'>Liên hệ</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="main-menu">
+                                <!-- Header-btn -->
+                                {{#if user}}
+                                {{!-- <div class="user-menu dropdown d-none f-right d-lg-block">
+                                    <img class="avatar" src="{{user.img}}" alt="avatar">
+                                    <a class="dropdown-toggle font-weight-bold" data-toggle="dropdown"
+                                        style="cursor: pointer;">{{user.name}}</a>
+                                    <div class="dropdown-menu">
+                                        <a class="dropdown-item" href="/user/profile">
+                                            <i class="fas fa-info-circle"></i>
+                                            &nbsp;&nbsp;Cập nhật thông tin
+                                        </a>
+                                        <a class="dropdown-item" href="/user/logout">
+                                            <i class="fas fa-sign-out-alt"></i>&nbsp;&nbsp; Đăng xuất</a>
+                                    </div>
+                                </div> --}}
+                                <nav class='d-none f-right d-lg-block'>
+                                    <ul id='navigation'>
+                                        <img class="avatar" src="{{user.img}}" alt="avatar">
+                                        <li><a style="font-weight: bold; padding: 0 12px" href="#">{{user.name}}</a>
+                                            <ul class="submenu">
+                                                <li><a href="/user/profile/{{user._id}}">Trang cá nhân</a></li>
+                                                <li><a href="/user/bookmark">Việc làm đã lưu</a></li>
+                                                <li><a href="/user/logout">Đăng xuất</a></li>
+                                                
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </nav>
+                                {{else}}
+                                <div class='header-btn d-none f-right d-lg-block'>
+                                    <a href='/user' class='btn head-btn1'>Đăng nhập</a>
+                                </div>
+                                {{/if}}
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Mobile Menu -->
+                    <div class='col-12'>
+                        <div class='mobile_menu d-block d-lg-none'></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header End -->
+</header>

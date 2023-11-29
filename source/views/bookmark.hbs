@@ -1,0 +1,76 @@
+<!-- Hero Area Start-->
+<div class="container">
+    <div class='slider-area'>
+        <div class='single-slider section-overly slider-height2 d-flex align-items-center'
+            data-background='/img/hero/about.jpg'>
+            <div class='container'>
+                <div class='row'>
+                    <div class='col-xl-12'>
+                        <div class='hero-cap text-center'>
+                            <h2>Danh sách việc làm đã lưu</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Hero Area End -->
+<!-- Job List Area Start -->
+<div class='job-listing-area pt-60 pb-0'>
+    <div class='container'>
+        <!--Job List Start-->
+        <div>
+            <!-- Featured_job_start -->
+            <section class='featured-job-area'>
+                <div class='container'>
+                    <!-- Count of Job list Start -->
+                    <div class='row mb-30 flex-row-reverse'>
+                        <span class="mr-2" style="font-size: 90%;">{{bookmark.length}} Jobs</span>
+                    </div>
+                    <!-- Count of Job list End -->
+                    <div class='row'>
+                        <div class='mx-auto'>
+                            {{#each bookmark}}
+                            <!-- single-job-content -->
+                            <div class='single-job-items mb-10 row'>
+                                <div class="col-12 col-md-10">
+                                    <div class='job-items row d-flex'>
+                                        <div class='company-img d-flex align-self-center' style="column-width:80px;">
+                                            <a href='/jobs/{{_id}}'>
+                                                <img src='{{company.img}}' alt='logo' />
+                                            </a>
+                                        </div>
+                                        <div class='job-tittle col align-self-center'>
+                                            <a href='/jobs/{{_id}}'>
+                                                <h4>{{name}}</h4>
+                                            </a>
+                                            <ul>
+                                                <li>{{company.name}}</li>
+                                                <li><i class="fa-solid fa-location-dot"></i>{{place}}</li>
+                                                <li><i class="fa-solid fa-dollar-sign"></i>{{salary}}</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="items-link col-4 col-md-2 align-self-center justify-content-center">
+                                    <div class="row">
+                                        <form action="/user/bookmark/delete/{{_id}}" method="post">
+                                            <button type="submit" class="square" title="Delete"><i class="fa-solid fa-heart"></i></button>
+                                        </form>
+                                        <a class="apply" href='/jobs/{{_id}}'>Ứng tuyển</a>
+                                    </div>
+                                    <span><i class="fa-regular fa-calendar-days"></i> {{deadline}}</span>
+                                </div>
+                            </div>
+                            {{/each}}
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Featured_job_end -->
+        </div>
+        <!--Job List End-->
+    </div>
+</div>
+<!-- Job List Area End -->

@@ -1,0 +1,49 @@
+{{#if success}}
+<div class="p-5 message">
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        {{ success }}
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="cursor: pointer;">
+            <span aria-hidden="true">
+                &times;
+            </span>
+        </button>
+    </div>
+</div>
+{{/if}}
+
+{{#if message}}
+<div class="p-5 message">
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        {{ message }}
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="cursor: pointer;">
+            <span aria-hidden="true">
+                &times;
+            </span>
+        </button>
+    </div>
+</div>
+{{/if}}
+
+<style>
+    .message {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        z-index: 1;
+        max-width: 600px;
+        transform: translateY(200%);
+        animation: noti 3s forwards alternate ease-in 2;
+        font-weight: bold;
+        font-size: 120%;
+    }
+
+    @keyframes noti {
+        50% {
+            transform: translateY(0);
+        }
+
+        100% {
+            transform: translateY(0);
+        }
+    }
+</style>

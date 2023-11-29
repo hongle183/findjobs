@@ -1,0 +1,126 @@
+<main>
+    <div class='container' id='container'>
+        <div class='form-container sign-up-container'>
+            <form id="register-form" action='/user/register' method="post">
+                <h1>Đăng ký</h1>
+                <div class='social-container'>
+                    <a href='/user/login/facebook'><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href='/user/login/google'><i class="fa-brands fa-google"></i></a>
+                </div>
+                <span style="font-size: 90%;">hoặc sử dụng email để đăng ký</span>
+                {{#if error}}
+                <p class="text-danger font-weight-bold m-0" style="font-size: 90%;">{{error}}</p>
+                {{/if}}
+                <div class="form-group">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">
+                                <i class="fas fa-user"></i>
+                            </span>
+                        </div>
+                        <input id="name" name="name" rules="required" type="text" class="form-control"
+                            placeholder=" Nhập họ và tên của bạn">
+                        <div class="invalid-feedback text-left"></div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">
+                                <i class="fa-solid fa-envelope"></i>
+                            </span>
+                        </div>
+                        <input id="email" name="email" rules="required email" type="email" class="form-control"
+                            placeholder=" Nhập email của bạn">
+                        <div class="invalid-feedback text-left"></div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">
+                                <i class="fas fa-lock"></i>
+                            </span>
+                        </div>
+                        <input id="password" name="password" rules="required min:6" type="password" class="form-control"
+                            placeholder=" Nhập mật khẩu">
+                        <div class="invalid-feedback text-left"></div>
+                    </div>
+                </div>
+                <button class='genric-btn danger circle' type="submit">Đăng ký</button>
+            </form>
+        </div>
+        <div class='form-container sign-in-container'>
+            <form id="login-form" action='/user/login' method="post">
+                <h1>Đăng nhập</h1>
+                <div class='social-container'>
+                    <a href='/user/login/facebook'><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href='/user/login/google'><i class="fa-brands fa-google"></i></a>
+                </div>
+                <span style="font-size: 90%;">hoặc tài khoản của bạn</span>
+                {{#if error}}
+                <p class="text-danger font-weight-bold m-0" style="font-size: 90%;">{{error}}</p>
+                {{/if}}
+                <div class="form-group">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">
+                                <i class="fa-solid fa-envelope"></i>
+                            </span>
+                        </div>
+                        <input id="email" name="email" rules="required email" type="email" class="form-control"
+                            placeholder=" Nhập email của bạn">
+                        <div class="invalid-feedback text-left"></div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text">
+                                <i class="fas fa-lock"></i>
+                            </span>
+                        </div>
+                        <input id="password" name="password" rules="required min:6" type="password" class="form-control"
+                            placeholder=" Nhập mật khẩu">
+                        <div class="invalid-feedback text-left"></div>
+                    </div>
+                </div>
+                <a href='#'>Quên mật khẩu?</a>
+                <br />
+                <button class='genric-btn danger circle mt-2' type="submit">Đăng nhập</button>
+            </form>
+        </div>
+        <div class='overlay-container'>
+            <div class='over'>
+                <div class='overlay-panel overlay-left'>
+                    <h1>Welcome Back!</h1>
+                    <p>To keep connected with us please login with your personal info</p>
+                    <button class='genric-btn danger-border circle' id='signIn'>Sign In</button>
+                </div>
+                <div class='overlay-panel overlay-right'>
+                    <h1>Hello, Friend!</h1>
+                    <p>Enter your personal details and start journey with us</p>
+                    <button class='genric-btn danger-border circle' id='signUp'>Sign Up</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<script>
+    const signUpButton = document.getElementById('signUp');
+    const signInButton = document.getElementById('signIn');
+    const container = document.getElementById('container');
+    signUpButton.addEventListener('click', () => {
+        container.classList.add('right-panel-active');
+    });
+    signInButton.addEventListener('click', () => {
+        container.classList.remove('right-panel-active');
+    });
+</script>
+<script src="/js/validator.js"></script>
+<script>
+    var form1 = new Validator('#login-form');
+    var form2 = new Validator('#register-form');
+</script>
