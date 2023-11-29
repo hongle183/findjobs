@@ -1,0 +1,42 @@
+[{
+  "_id": "643bc69ea3eaf0c1cdd609fe",
+  "name": "Hồng Lê",
+  "email": "thu@gmail.com",
+  "password": "$2b$08$zqJn9VJ7cG3RRyHll9gbWOO7/XAkHIZfWjDqBYSeOQonweWPkPeRu",
+  "phone": "0988650639",
+  "img": "/img/avatar/643bc69ea3eaf0c1cdd609fe.jpg",
+  "website": "",
+  "address": "Bình Chánh, TP Hồ Chí Minh",
+  "status": true,
+  "__v": 0,
+  "gender": false,
+  "createdAt": "16/04/2023 16:57:50",
+  "about": "Web Developer"
+},{
+  "_id": "google:105232368535705586019",
+  "name": "khánh toàn",
+  "email": "thuhongkhanhtoan@gmail.com",
+  "phone": "0338650676",
+  "gender": true,
+  "img": "/img/avatar/105232368535705586019.jpg",
+  "address": "Bình Chánh, TP HCM",
+  "role": "cadidate",
+  "status": true,
+  "__v": 0,
+  "password": "34234132",
+  "createdAt": "17/04/2023 14:43:12"
+},{
+  "_id": "64440ef674b378789bb69b45",
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$08$qPv0tU/EvMgnzxxJOIzBr.yX4G6x4mjktWnL.s2zJtK0MlRqtUNfq",
+  "gender": false,
+  "img": "/img/avatar/64440ef674b378789bb69b45.jpg",
+  "role": "cadidate",
+  "status": true,
+  "createdAt": "22/04/2023 23:44:38",
+  "__v": 0,
+  "about": "Trình độ: đại học ở đại học Tông Đức Thắng",
+  "address": "QL50",
+  "phone": "0818650639"
+}]

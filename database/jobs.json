@@ -1,0 +1,855 @@
+[{
+  "_id": "J643c7a37479d8f987538165e",
+  "name": "Chuyên Viên Lập Trình Mobile App (PHP, Android, IOS)",
+  "category": "IT - Phần mềm",
+  "company": "C643c6aa0144436dfc2fca2c0",
+  "place": [
+    "Hồ Chí Minh"
+  ],
+  "salary": "Thỏa thuận",
+  "slot": 3,
+  "deadline": "20/05/2023",
+  "desc": [
+    "Tham gia vào việc phát triển các dự án phần mềm dành cho Doanh nghiệp",
+    "Xây dựng các Apps trên iOS & Android, tìm hiểu các công nghệ mới",
+    "Làm việc theo mô hình phát triển dự án Agile, Scrum",
+    "Phát triển các ứng dụng cho mobile (Android & IOS), phát triển app quản lý hỗ trợ dành cho doanh nghiệp",
+    "Phối hợp với đội lập trình backend để tích hợp các API truy xuất dữ liệu cho App",
+    "Các công việc khác liên quan đến Mobile App do quản lý giao và hướng dẫn"
+  ],
+  "require": [
+    "Đã tốt nghiệp Cao đẳng, Đại học hoặc các bằng liên quan chuyên ngành lập trình. Có ít nhất 1 năm kinh nghiệm",
+    "Thành thạo PHP/MySQL, có kiến thức tốt về MVC",
+    "Hiểu biết về JS/JQuery/AJAX/Angular/Laravel, HTML5/CSS3, WebSocket, RESTful",
+    "Có khả năng tư duy tốt, thích tìm tòi, sáng tạo trong lĩnh vực công nghệ thông tin",
+    "Am hiểu kĩ năng và quy trình phát triển phần mềm.",
+    "Có kiến thức tốt về lập trình hướng đối tượng (OOP) và design pattern, học hỏi nhanh, chủ động, sáng tạo trong công việc.",
+    "Kỹ năng đọc/hiểu tài liệu kỹ thuật bằng tiếng Anh.",
+    "Ưu tiên có kinh nghiêm lập trình tích hợp API"
+  ],
+  "benefit": [
+    "Mức lương thỏa thuận theo năng lực",
+    "Lương tháng 13+",
+    "Thưởng theo năng suất dự án tham gia",
+    "Phúc lợi đầy đủ (BHXH, BHYT, khám sức khỏe hàng năm..)",
+    "Làm việc từ thứ 2 – thứ 6, nghỉ phép 12 ngày/năm",
+    "Tham gia các buổi đào tạo nội bộ và các sự kiện liên quan.",
+    "Summer trip hàng năm",
+    "Đầy đủ chế độ đãi ngộ (thưởng lễ tết, sinh nhật, 8/3…)"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 05:44:07",
+  "__v": 0
+},{
+  "_id": "J643c7c3129de9bc6aabf4067",
+  "name": "Cộng tác viên quản lý dữ liệu & công nghệ",
+  "category": "IT - Phần mềm",
+  "company": "C643c3100f8ce2c237087cbb4",
+  "place": [
+    "Hà Nội"
+  ],
+  "salary": "Trên 1000 USD",
+  "slot": 20,
+  "deadline": "18/06/2023",
+  "desc": [
+    "CỘNG TÁC VIÊN CÔNG NGHỆ:<br>Xoay vòng giữa tất cả các dự án để hiểu điểm mạnh của bạn trước khi chọn lĩnh vực lý tưởng của bạn để phát triển hơn nữa<br>+ Phát triển phần mềm<br>+ Bảo mật CNTT<br>+ Vận hành và quản lý hạ tầng CNTT<br>+ QA/QC<br>+ Kiến trúc doanh nghiệp<br>+ Quản lý dự án",
+    "LIÊN KẾT DỮ LIỆU<br>Xoay vòng giữa tất cả các dự án để hiểu điểm mạnh của bạn trước khi chọn lĩnh vực lý tưởng của bạn để phát triển hơn nữa<br>+ Phân tích và báo cáo<br>+ Giải quyết dữ liệu<br>+ Kiến trúc dữ liệu<br>+ Tích hợp dữ liệu<br>+ Quản lý dự án"
+  ],
+  "require": [
+    "CỘNG TÁC VIÊN CÔNG NGHỆ:<br>Bằng Cử nhân Khoa học Máy tính, Công nghệ Thông tin, Kỹ thuật Phần mềm hoặc các lĩnh vực liên quan;<br>Hiểu về BẤT KỲ ngôn ngữ lập trình nào (ví dụ: Java, .NET, Python); tiêu chuẩn thông báo (ví dụ: SOAP, JSON); & cấu hình và quản lý cơ sở dữ liệu (ví dụ: MySQL, Mongo);<br>Kiến thức cơ bản về một hoặc nhiều công cụ kỹ thuật; công nghệ mã nguồn mở; dịch vụ điện toán đám mây; An ninh mạng, An ninh ứng dụng, Đánh giá bảo mật và thử nghiệm thâm nhập; Kiểm toán & Tuân thủ; & Trung tâm điều hành an ninh;<br>Nhận thức cơ bản về DevSecOps và các khái niệm quan trọng của Agile;<br>Tiếng Anh nói/viết thành thạo và đam mê CNTT.",
+    "LIÊN KẾT DỮ LIỆU<br>Bằng cử nhân về Toán, CNTT, Khoa học Máy tính, Thống kê, Kỹ thuật Phần mềm hoặc các lĩnh vực liên quan;<br>Hiểu biết về BẤT KỲ công nghệ dữ liệu lớn nào (ví dụ: Cloud, Spark, Flink, Kafka, Arrow, Tableau) hoặc công nghệ Cơ sở dữ liệu (ví dụ: SQL, NoSQL, cơ sở dữ liệu Đồ thị) hoặc các công cụ (BI) (ví dụ: Tableau, QlikView, Spark);<br>Hiểu về BẤT KỲ ngôn ngữ lập trình nào (ví dụ: Python, R, Java, Kotlin, C, C++, v.v.);<br>Hiểu biết cơ bản về học máy;<br>Thành thạo tiếng Anh nói/viết và đam mê DA."
+  ],
+  "benefit": [
+    "Mức lương xuất sắc bắt đầu từ $1000 USD trong tháng đầu tiên",
+    "Sự nghiệp nhanh chóng kéo dài 18 tháng với nhiều dự án chiến lược sáng kiến ​​khác nhau với khoản đầu tư hơn 300 triệu USD vào DA/CNTT;",
+    "Cơ hội học tập đỉnh cao với các đối tác học tập trên toàn thế giới (VD: AWS, Franklin Covey, v.v.)",
+    "Cơ hội làm việc trực tiếp và được cố vấn bởi các chuyên gia hàng đầu thế giới là lãnh đạo cấp cao của Techcombank;",
+    "Trở thành Key Talents tại Techcombank theo Chương trình Key Talent với sự đầu tư mạnh mẽ để thăng tiến trong sự nghiệp và nhiều quyền lợi đặc biệt khác;",
+    "Cơ hội Mentoring ngược – trở thành người cố vấn cho các trưởng/lãnh đạo cấp cao của Techcombank chia sẻ những hiểu biết về thế hệ Z."
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 05:52:33",
+  "__v": 0
+},{
+  "_id": "J643c7d3ab51aa566c16c4d35",
+  "name": "Nhân Viên Telesale/Tư Vấn/ Bán Hàng Qua Điện Thoại",
+  "category": "Tư vấn - Kinh doanh / Bán hàng",
+  "company": "C643c320c864814c3bb13d36b",
+  "place": [
+    "Hồ Chí Minh: Quận 2",
+    "Hà Nội: Đống Đa"
+  ],
+  "salary": "Tới 18 triệu",
+  "slot": 10,
+  "deadline": "31/05/2023",
+  "desc": [
+    "Gọi, tư vấn thuyết phục KH tham gia các gói sản phẩm của LOTTE FINANCE qua điện thoại.",
+    "Đảm bảo số lượng cuộc gọi hàng ngày",
+    "Liên lạc với khách hàng theo nguồn data đã có sẵn (Được hỗ trợ data), hoặc theo data tự có",
+    "Báo cáo và cập nhật thông tin khách hàng lên hệ thống",
+    "Phối hợp với các bộ phận liên quan để phục vụ khách hàng tốt nhất"
+  ],
+  "require": [
+    "Biết sử dụng vi tính văn phòng ( MS word , excel,..) internet, Skype,..",
+    "Có kinh nghiệm trong lĩnh vực tài chính là một lợi thế, đặc biệt là kinh nghiệm về khoản vay tín chấp cá nhân.",
+    "Có kinh nghiệm telesale là một lợi thế.",
+    "Độ tuổi : 18 trở lên; giọng nói rõ ràng dễ nghe",
+    "Trung thực, chịu khó, kiên trì, năng động",
+    "Chịu được áp lực công việc và có tinh thần trách nhiệm"
+  ],
+  "benefit": [
+    "Lương cứng từ 7.5 triệu",
+    "Hoa hồng: 5 triệu - 15 triệu",
+    "Thu nhập trung bình của một nhân viên sau 3 tháng từ 8 – 15 triệu đồng/ tháng (Hoa hồng không giới hạn)",
+    "Thời gian thử việc: 02 tháng",
+    "Làm việc tại văn phòng.",
+    "Nghỉ phép : 16 ngày / năm.",
+    "Tăng lương theo hiệu quả công tác và cam kết đầy đủ các chế độ dành cho người lao động theo như quy định pháp luật hiện hành (BHXH, BHYT, BHTN…)",
+    "Có lương tháng thứ 13 theo quy định công ty",
+    "Được huấn luyện kỹ năng và nghiệp vụ chuyên sâu",
+    "Có cơ hội đi du lịch trong hoặc ngoài nước",
+    "Các chế độ khen thưởng và chính sách đặc biệt khác từ LOTTE FINANCE."
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 05:56:58",
+  "__v": 0
+},{
+  "_id": "J643c7e1e696f853fddddfa2d",
+  "name": "Nhân Viên Tư Vấn Tuyển Sinh / Tư Vấn Khóa Học",
+  "category": "Tư vấn - Kinh doanh / Bán hàng",
+  "company": "C643c32825c4166a62145b91f",
+  "place": [
+    "Hà Nội: 299 Cầu Giấy, Cầu Giấy",
+    "Hà Nội: 54 Lê Văn Lương, Thanh Xuân",
+    "Hà Nội: Vinhomes Gardenia, Hàm Nghi, Nam Từ Liêm, Từ Liêm",
+    "Hà Nội: Chung cư Terra An Hưng, Hà Đông"
+  ],
+  "salary": "12 -15 triệu",
+  "slot": 20,
+  "deadline": "30/04/2023",
+  "desc": [
+    "Liên hệ và tư vấn qua điện thoại cho khách hàng theo data có sẵn.",
+    "Chủ động tìm kiếm phát triển nguồn khách hàng mới thông qua mạng xã hội, các hoạt động marketing trực tiếp, tìm kiếm đối tác liên kết, network cá nhân...",
+    "Thực hiện công tác tư vấn ghi danh theo đúng qui trình, đảm bảo yếu tố về mặt dịch vụ",
+    "Cập nhật thông tin khách hàng lên hệ thống phần mềm, quản trị data khách hàng",
+    "Phối hợp với bộ phận Chăm sóc học viên để chăm sóc học viên trong quá trình học, hỗ trợ thu tái phí, tìm kiếm nguồn khách hàng giới thiệu từ học viên"
+  ],
+  "require": [
+    "Độ tuổi: 20 - 30 tuổi.",
+    "Có kinh nghiệm trong lĩnh vực tư vấn, kinh doanh, bán hàng, telesale là lợi thế lớn.",
+    "Thái độ hoà nhã, kỹ năng giao tiếp tốt, nhiệt tình với công việc.",
+    "Không có kinh nghiệm sẽ được đào tạo.",
+    "Đáp ứng được thời gian làm việc: Xoay ca linh hoạt: 9h-18h30 và 13h30- 21h30. Nghỉ 1,5 ngày/ tuần (Trừ T7, CN)."
+  ],
+  "benefit": [
+    "Thử việc nhận 100% lương NET",
+    "Thu nhập 12 - 15 triệu/tháng (Lương cứng 6 - 9 triệu)",
+    "Chế độ BHXH, BHYT, BHTN được đóng trên mức 100% lương NET (công ty đóng riêng, không trừ vào phần lương offer)",
+    "Thưởng cuối năm, thưởng KPI.",
+    "Khám sức khỏe hàng năm",
+    "Học bổng VUS cho bản thân và người thân",
+    "Phép năm: 12 ngày/ năm; 3 năm thâm niên được cộng 1 ngày",
+    "Các ngày nghỉ Quốc lễ theo Luật quy định",
+    "Môi trường giáo dục hiện đại",
+    "Cơ hội tham gia các khóa đào tạo, phát triển bản thân."
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:00:46",
+  "__v": 0
+},{
+  "_id": "J643c7f2f203619f9d812b02c",
+  "name": "Nhân Viên Chăm Sóc Khách Hàng (Customer Service Officer)",
+  "category": "",
+  "company": "C643c32ee2d8bcdb9f2c7fd56",
+  "place": [
+    "Hà Nội: Rice City Linh Đàm - Tòa Trung, Tòa nhà A1 - A2, Hoàng Mai, Hà Nội, Hoàng Mai",
+    "Hà Nội: 181-183-185 P. Huế, Phố Huế, Hoàn Kiếm, Hà Nội, Hai Bà Trưng",
+    "Hà Nội: B1-35 Vinhomes Gardenia, P. Hàm Nghi, Cầu Diễn, Từ Liêm, Hà Nội, Từ Liêm",
+    "Hồ Chí Minh: 204 Đ. Trần Bình Trọng, Phường 4, Quận 5, Thành phố Hồ Chí Minh, Quận 5",
+    "Hồ Chí Minh: 88 Đ. Song Hành, An Phú, Quận 2, Thành phố Hồ Chí Minh, Quận 2",
+    "Hồ Chí Minh: 198 Bàu Cát, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Tân Bình",
+    "Hồ Chí Minh: 32-34 Đường Số 17A, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Bình Tân",
+    "Hồ Chí Minh: 307 Nguyễn Văn Luông, Phường 12, Quận 6, TP. HCM., Quận 6",
+    "Hồ Chí Minh: 277 Tô Ngọc Vân, Thành phố, Thủ Đức, Thành phố Hồ Chí Minh, Thủ Đức",
+    "Hồ Chí Minh: 331 Đ. Lê Đại Hành, Phường 13, Quận 11, Thành phố Hồ Chí Minh, Quận 11",
+    "Đồng Nai: Tầng 3, TTTM Vincom Biên Hòa 1096 Phạm Văn Thuận, Tân Mai, Biên Hòa",
+    "Bình Dương: 310 Thích Quảng Đức, Phú Cường, Thủ Dầu Một, Bình Dương, Thủ Dầu Một"
+  ],
+  "salary": "7 - 20 triệu",
+  "slot": 15,
+  "deadline": "15/05/2023",
+  "desc": [
+    "Triển khai hiệu quả & chất lượng cao công tác chăm sóc khách hàng tại trung tâm.<br>CSO chịu trách nhiệm chăm sóc khách hàng cho tất cả các khách hàng nội bộ và bên ngoài.",
+    "Báo cáo<br>Tại mọi thời điểm, các CSO phải biết và có thể báo cáo về tất cả các khía cạnh của các lĩnh vực chịu trách nhiệm liên quan đến hoạt động bán hàng và dịch vụ khách hàng hiệu quả và chất lượng cao.",
+    "Giao tiếp<br>Giao tiếp tốt với các CSO và EC khác và nhân viên từ các bộ phận khác trong trung tâm bao gồm giáo viên EFL nhân viên quản trị trà nữ nhân viên bảo vệ, v.v.",
+    "Cải tiến liên tục<br>+ Xác định các cơ hội để phát triển cải thiện và gia tăng giá trị cho Trung tâm của Apollo<br>+ Các hoạt động phù hợp với các mục tiêu chiến lược của (các) trung tâm của họ và tổ chức.<br>+ Các nhiệm vụ khác do Giám đốc Trung tâm giao."
+  ],
+  "require": [
+    "Quốc tịch Việt Nam.",
+    "Người có bằng Cử nhân",
+    "Hãy chủ động giữa các cá nhân và định hướng chi tiết.",
+    "Trình độ tin học – Ứng dụng văn phòng MS (Word Excel Outlook)."
+  ],
+  "benefit": [
+    "Hoa hồng áp dụng theo chính sách hoa hồng hiện hành của Công ty",
+    "13 tháng lương gộp mỗi năm được trả",
+    "Phép năm: 14 ngày",
+    "BHXH, BHYT & BHTN",
+    "Tài trợ giáo dục cho các thành viên gia đình của nhân viên",
+    "Cơ hội đào tạo",
+    "Hoạt động xây dựng đội ngũ"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:05:19",
+  "__v": 0
+},{
+  "_id": "J643c805801ae597eb01f4413",
+  "name": "Chuyên Viên Hỗ Trợ Tín Dụng",
+  "category": "Ngân hàng / Tài chính",
+  "company": "C643c333c556d883efa10e73a",
+  "place": [
+    "Hồ Chí Minh: 233 Đồng Khởi, Phường Bến Nghé, Quận 1, TP.HCM, Quận 1"
+  ],
+  "salary": "Trên 8 triệu",
+  "slot": 3,
+  "deadline": "13/05/2023",
+  "desc": [
+    "Soạn thảo và hoàn tất các thủ tục pháp lý về hợp đồng tín dụng, hợp đồng tài sản bảo đảm, các văn bản tín dụng và bảo lãnh khác;",
+    "Làm thủ tục về tài sản bảo đảm, công chứng;",
+    "Hạch toán kế toán tín dụng;",
+    "Theo dõi kiểm tra số liệu các khoản tín dụng;",
+    "Sắp xếp, lưu trữ hồ sơ, chứng từ tín dụng theo quy định của BAOVIET Bank."
+  ],
+  "require": [
+    "Trình độ, kinh nghiệm:<br>+ Ứng viên có trình độ Cao đẳng trở lên thuộc các chuyên ngành kinh tế, tài chính, ngân hàng, kế toán, luật kinh tế,...;<br>+ Hiểu biết nhất định về các dịch vụ và sản phẩm tín dụng ngân hàng;<br>+ Ưu tiên có kinh nghiệm làm việc tại các tổ chức ngân hàng với vị trí tương đương.",
+    "Kỹ năng làm việc:<br>+ Nhanh nhẹn, có khả năng xây dựng và duy trì mối quan hệ tốt với các đồng nghiệp;<br>+ Sử dụng phần mềm, công cụ tin học văn phòng thành thạo;<br>+ Kiến thức nhất định về pháp lý liên quan hoạt động tín dụng, bảo đảm tiền vay;<br>+ Khả năng làm việc theo nhóm."
+  ],
+  "benefit": [
+    "Chế độ bảo hiểm",
+    "Du Lịch",
+    "Chế độ thưởng",
+    "Chăm sóc sức khỏe",
+    "Đào tạo",
+    "Tăng lương"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:10:16",
+  "__v": 0
+},{
+  "_id": "J643c824ea49abffe57539e89",
+  "name": "Thư Ký Tổng Giám Đốc",
+  "category": "Hành chính / văn phòng",
+  "company": "C643c6d14a478bac214785044",
+  "place": [
+    "Hà Nội: CMC Tower - 11 Duy Tân, Dịch Vọng Hậu, Cầu Giấy"
+  ],
+  "salary": "Tới 25 triệu",
+  "slot": 1,
+  "deadline": "14/05/2023",
+  "desc": [
+    "Công tác thư ký:<br>+ Sắp xếp lịch làm việc, lịch họp, lịch công tác, tổ chức các cuộc họp, ghi chép và tổng hợp nội dung các cuộc họp cho CEO để phục vụ việc quản lý điều hành.<br>+ Tiếp nhận, phân loại, sắp xếp, xử lý thông tin, văn bản, tài liệu từ các Phòng Ban và tổng hợp gửi lên CEO.<br>+ Biên phiên dịch tài liệu khi có yêu cầu.<br>+ Lưu giữ thông tin tài liệu liên quan.<br>+ Thực hiện các công việc theo yêu cầu của CEO.<br>+ Quan hệ giao dịch với các đơn vị cơ quan chức năng theo phân công.",
+    "Công tác trợ lý:<br>+ Tham mưu cho TGĐ trong công tác hoạch địch & thực thi chiến lược, kế hoạch đối với các dự án của công ty.<br>+ Phối hợp cùng Ban Giám đốc trong việc Xây dựng hệ thống quản trị, hoạch định chiến lược, kế hoạch SXKD, kiểm soát chi phí hàng năm, quý, tháng.<br>+ Thay mặt Giám đốc để giải quyết các vấn đề liên quan đến chức năng, nhiệm vụ trong phạm vi thẩm quyền được giao quản lý.<br>+ Quan hệ báo cáo công việc<br>+ Báo cáo công việc thực hiện thường xuyên và trực tiếp cho CEO."
+  ],
+  "require": [
+    "Trình độ chuyên môn: Tốt nghiệp đại học chuyên ngành về Tài chính, Kinh tế, Quản trị kinh doanh, Ngoại thương, Ngoại ngữ, Sư phạm, Giáo dục.",
+    "Kinh nghiệm nghề nghiệp:<br>+ Có ít nhất 1 – 2 năm kinh nghiệm ở vị trí thư ký/ trợ lý<br>+ Có sự hiểu biết chung về các hoạt động quản trị của doanh nghiệp.",
+    "Kỹ năng:<br>+ Sử dụng thành thạo MS office.<br>+ Tiếng Anh: có thể biên dịch tài liệu, phiên dịch các cuộc họp có nội dung đã chuẩn bị.<br>+ Có khả năng tổ chức, triển khai công việc một cách độc lập và quản lý thời gian tốt.<br>+ Có kỹ năng viết báo cáo, tổng hợp<br>+ cập nhật thông tin.<br>+ Kỹ năng giao tiếp tốt (với cả người Việt và người nước ngoài).<br>+ Có khả năng giao tiếp hiệu quả trong nội bộ với các cấp lãnh đạo và nhân viên cũng như giao tiếp hiệu quả với các tổ chức và khách hàng bên ngoài.<br>+ Tác phong chuyên nghiệp, tự tin.",
+    "Ưu tiên:<br>+ Ưu tiên những ứng viên có bằng Tốt nghiệp tại nước ngoài hoặc trong nước xếp loại giỏi trở lên, có bằng Thạc sỹ về quản trị kinh doanh<br>+ Ứng viên nữ từ 30 tuổi trở xuống, ngoại hình khá, khả năng giao tiếp tốt, sử dụng thành thạo tiếng Anh"
+  ],
+  "benefit": [
+    "Đãi ngộ (lương, thưởng, review lương): lương cứng từ 15 - 25 triêu/ tháng tùy năng lực và số năm kinh nghiệm.+ KPI năm + phúc lợi Lễ tết.",
+    "Ký Hợp đồng lao động, đóng bảo hiểm đầy đủ, nghỉ 12 ngày phép năm, các ngày Lễ, Tết theo quy định Nhà nước.",
+    "Xem xét tăng lương và chia thưởng theo năng lực.",
+    "Được tham gia các khóa huấn luyện, đào tạo nâng cao kỹ năng, nghiệp vụ của CMC cũng như các hãng công nghệ lớn như Microsoft, IBM, Google …",
+    "Bảo hiểm chăm sóc sức khỏe Aon Care (điều trị nội trú và ngoại trú) dành cho nhân viên",
+    "Cơ hội thử thách và phát triển",
+    "Cơ hội được làm việc tại công ty công nghệ viễn thông tư nhân hàng đầu Việt Nam (As an AWS Advanced Consulting Partner, First Premier Partner of Google Cloud in Viet Nam)",
+    "Được dẫn dắt, hỗ trợ bởi team lead/chuyên gia ưu tú, đầu ngành trong lĩnh vực",
+    "Làm việc 5 ngày/tuần (khoảng 44h/tuần), nghỉ thứ 7, Chủ Nhật",
+    "Môi trường làm việc trẻ, năng động, sáng tạo, công bằng, kỷ luật",
+    "Tham gia gắn kết với tập thể, tổ chức với các hoạt động team building thú vị, các clb chạy và đá bóng, esport,…các party liên hoan của Công ty (sinh nhật, lễ Tết,…)",
+    "Chế độ chăm sóc y tế đặc biệt cho CBNV"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:18:38",
+  "__v": 0
+},{
+  "_id": "J643c82efd5642bde57d2eb43",
+  "name": "Thực Tập Sinh L&D",
+  "category": "Công nghệ thông tin",
+  "company": "C643c6d5ca2387fe72a62e7f8",
+  "place": [
+    "Hà Nội: Tháp B, Tòa Skypark Số 3 Tôn Thất Thuyết, Cầu Giấy"
+  ],
+  "salary": "Tới 7 triệu",
+  "slot": 2,
+  "deadline": "31/05/2023",
+  "desc": [
+    "Tổ chức và quản lý các hoạt động đào tạo / workshop nội bộ: điều phối lớp học và quản lý học viên (thông báo lịch học, nhắc lịch, set up phòng học, điểm danh, đánh giá, phát/thu bài kiểm tra nếu có,…).",
+    "Hỗ trợ quản lý chi phí, thực hiện các quy trình thanh toán liên quan đến đào tạo.",
+    "Phối hợp lên kế hoạch, tổ chức các chương trình Fresher, Management Trainee.",
+    "Tham gia tổ chức các kỳ kiểm tra năng lực, ngoại ngữ trong nội bộ.",
+    "Lên ý tưởng cho các ấn phẩm truyền thông cho đào tạo.",
+    "Các công việc, dự án khác theo yêu cầu của QLTT."
+  ],
+  "require": [
+    "Sinh viên năm cuối hoặc mới tốt nghiệp các Trường khối kinh tế có định hướng phát triển theo lĩnh vực Nhân Sự / Đào Tạo.",
+    "Có kinh nghiệm tổ chức sự kiện, trợ giảng, gia sư,…",
+    "Có khả năng hoạt náo, khuấy động không khí trong đám đông.",
+    "Năng động, nhiệt tình và trách nhiệm trong công việc; khéo léo & giao tiếp tốt.",
+    "Kỹ năng Powerpoint, Word, Excel tốt.",
+    "Tiếng Anh giao tiếp là một lợi thế.",
+    "Thời gian làm việc từ T2 đến T6 (8h30 - 18h). Ưu tiên các ứng viên có thể làm việc full-time."
+  ],
+  "benefit": [
+    "Trợ cấp thực tập hấp dẫn tùy thuộc vào năng lực.",
+    "Được đào tạo bài bản về các kỹ năng cần thiết cho công việc như: kỹ năng lập kế hoạch, tư duy phản biện, giải quyết vấn đề, thuyết trình,..",
+    "Cơ hội làm việc trong môi trường quốc tế năng động, chuyên nghiệp, cơ hội phát triển cao, có cơ hội được trau dồi tiếng anh.",
+    "Hưởng các quyền lợi đặc biệt như: teabreak hàng ngày, câu lạc bộ (gym, bơi lội, bóng đá…), các hoạt động ngoại khóa, picnic, du lịch…",
+    "Được hỗ trợ thông tin để làm báo cáo thực tập, luận văn tốt nghiệp.",
+    "Được hỗ trợ đóng dấu xác nhận thời gian thực tập.",
+    "Được công ty viết Thư giới thiệu nếu sinh viên có kết quả thực tập xuất sắc."
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:21:19",
+  "__v": 0
+},{
+  "_id": "J643c837d0e5e37d531bfadd6",
+  "name": "Nhân Viên Giám Sát Kho Vận - HCM",
+  "category": "Logistics",
+  "company": "C643c6dab5bb012b8bcc98a84",
+  "place": [
+    "Hồ Chí Minh: HẺM 18 NGUYỄN ĐỨC THUẬN, PHƯỜNG 13, QUẬN TÂN BÌNH, Tân Bình",
+    "Hồ Chí Minh: 117/2D HỖ VĂN LONG, TÂN TẠO, QUẬN BÌNH TÂN, Bình Tân",
+    "Hồ Chí Minh: 267 NGUYỄN XIỂN, PHƯỜNG TRƯỜNG THẠNH, THÀNH PHỐ THỦ ĐỨC, Quận 9",
+    "Hồ Chí Minh: 19 QUỐC LỘ 22, ẤP TRẠM BOM, XÃ TÂN PHÚ TRUNG, HUYỆN CỦ CHI, Củ Chi"
+  ],
+  "salary": "10 - 15 triệu",
+  "slot": 14,
+  "deadline": "15/06/2023",
+  "desc": [
+    "Chịu trách nhiệm về toàn bộ quy trình vận hành (Hàng hóa, Nhân sự, Hiệu suất giao nhận của khu vực/ Module phụ trách)",
+    "Kiểm soát chất lượng xử lí hàng hóa thuộc Module phụ trách",
+    "Kiểm soát luồng hàng xuất nhập để đảm bảo chất lượng dịch vụ của công ty",
+    "Quản lý đội ngũ nhân viên phụ kho và tài xế xe tải",
+    "Các yêu cầu khác theo sự hướng dẫn của cấp trên"
+  ],
+  "require": [
+    "Nam/ Nữ Tuổi từ 1995 - 2000",
+    "Giới tính: Nam",
+    "Tốt nghiệp Đại học chuyên ngành Vận tải, Quản lý, Kinh tế, Logistics,...",
+    "Nhanh nhẹn, linh hoạt, tư duy mở",
+    "Thích thử thách, chịu áp lực tốt, tinh thần trách nhiệm cao",
+    "Có laptop cá nhân phục vụ cho công việc"
+  ],
+  "benefit": [
+    "Lộ trình phát triển cấp Quản lý Module",
+    "Môi trường làm việc trẻ và năng động ",
+    "Cơ hội phát huy tối đa năng lực của bản thân qua nhiều dự án mới",
+    "Đánh giá tăng bậc lương theo năng lực định kỳ",
+    "Hưởng đầy đủ các chế độ Bảo hiểm, ngày nghỉ theo quy định của Công ty và Pháp luật hiện hành",
+    "Phụ cấp di chuyển khi làm ở các kho ngoại thành"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:23:41",
+  "__v": 0
+},{
+  "_id": "J643c8410ebd453e3eb9795d0",
+  "name": "Chuyên Viên Animation",
+  "category": "Giáo dục / đào tạo",
+  "company": "C643c6e39fe862b5e02b2d145",
+  "place": [
+    "Hà Nội: Tầng 2, Tòa nhà HH - N01, dự án Gold Season, số 47 đường Nguyễn Tuân, Phường Thanh Xuân Trung, Quận Thanh Xuân"
+  ],
+  "salary": "12 -15 triệu",
+  "slot": 1,
+  "deadline": "31/05/2023",
+  "desc": [
+    "Diễn hoạt animation cho các dự án của công ty bao gồm: Dự án Video, hoạt hình, truyện tranh tương tác",
+    "Phối hợp chặt chẽ với các bộ phận liên quan ",
+    "Thực hiện các công việc theo sự phân công của quản lý"
+  ],
+  "require": [
+    "Có từ 1 năm kinh nghiệm trở lên ở vị trí tương đương",
+    "Thành thạo Ae/Moho hoặc các phần mềm tương tự để làm animation, Ưu tiên ứng viên thành thạo Ae",
+    "Thành thạo các phần mềm bổ trợ: Ai, Ps, Pr",
+    "Sáng tạo, đọc hiểu kịch bản phân cảnh",
+    "Nắm vững các nguyên tắc trong chuyển động nhân vật, có cảm nhận về chuyển động tốt",
+    "Diễn hoạt character, người, động vật thành thạo",
+    "Tinh thần làm chủ công việc, cầu tiến, ham học hỏi",
+    "Gửi sản phẩm đã làm ưng ý nhất"
+  ],
+  "benefit": [
+    "Thu nhập từ 12.000.000 VNĐ - 15.000.000 VNĐ/ tháng",
+    "Trợ cấp 1.000.000 VNĐ/ tháng ăn trưa, xăng xe",
+    "Được tham gia vào quy trình sản xuất video animation, vfx",
+    "Đào tạo chuyên sâu về hoạt họa",
+    "Tiếp cận với các chuyên môn khác như Đạo diễn, Biên kịch để phục vụ tốt chuyên môn animation",
+    "Được tài trợ chi phí cho các khóa học để phát triển năng lực chuyên môn của bản thân",
+    "Được sử dụng không giới hạn các sản phẩm của Monkey",
+    "Được làm việc tại công ty đạt được nhiều giải thưởng danh giá như Giải nhất Sáng kiến toàn cầu tại Mỹ do tổng thống Mỹ Barack Obama trao tặng; Giải nhất Nhân tài đất Việt; Top 1 ứng dụng trẻ em được yêu thích trên App Store và Google Play….",
+    "Được làm việc trong môi trường Startup tích cực, cởi mở, sẵn sàng lắng nghe, chia sẻ từ sếp đến đồng nghiệp",
+    "Được xét tăng lương 2 lần/năm",
+    "Thưởng năng suất, thưởng dự án, thưởng sáng kiến, thưởng tăng tốc, thưởng nóng, thưởng khi nghĩ ra cách thưởng mới; các dịp lễ, Tết đều có quà, thưởng",
+    "Được trang bị thiết bị phục vụ cho công việc hoặc trợ cấp nếu sử dụng thiết bị cá nhân",
+    "Số ngày nghỉ phép, nghỉ lễ, Tết, nghỉ việc cá nhân đầy đủ theo quy định của Luật lao động",
+    "Chế độ thai sản hấp dẫn cho nam, nữ giới",
+    "Được hưởng các chế độ về BHXH, BHYT, BHTN và các chế độ khác theo quy định của công ty",
+    "Được khám sức khỏe định kỳ với gói khám chất lượng cao tại các Cơ sở y tế lớn",
+    "Hưởng niềm vui không chỉ phúc lợi: Teabreak mỗi ngày, liên hoan hàng tuần, sinh nhật hàng tháng, du lịch hàng năm",
+    "Và rất nhiều chính sách phúc lợi hấp dẫn khác sẽ được trao đổi tại buổi Phỏng vấn"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:26:08",
+  "__v": 0
+},{
+  "_id": "J643c8494d4005f2215bdda10",
+  "name": "Nhân Viên Designer",
+  "category": "Thiết kế đồ họa",
+  "company": "C643c6e782d17890f6fe8a087",
+  "place": [
+    "Hồ Chí Minh: Cityland Center Hills, Phường 7, Gò Vấp"
+  ],
+  "salary": "Thỏa thuận",
+  "slot": 1,
+  "deadline": "11/05/2023",
+  "desc": [
+    "Thiết kế logo và bao bì cho các sản phẩm mỹ phẩm",
+    "Thiết kế sản phẩm phục vụ cho việc truyền thông sản phẩm trên các kênh online và offline như: standee, banner, cover photo, tờ rơi, tờ gấp, voucher, catalog, email marketing,...",
+    "Thiết kế website",
+    "Phối hợp cùng bộ phận khác để tối ưu sản phẩm",
+    "Các công việc khác thuộc chuyên môn theo yêu cầu của cấp trên."
+  ],
+  "require": [
+    "Thành thạo các công cụ thiết kế, ưu tiên ứng viên đã có kinh nghiệm ở vị trí tương đương",
+    "Chủ động và có trách nhiệm trong công việc",
+    "Biết tiếng Anh hoặc Tiếng Hàn là một lợi thế",
+    "Ứng viên gửi portfolio kèm theo CV ứng tuyển"
+  ],
+  "benefit": [
+    "Lương thỏa thuận theo năng lực",
+    "Được làm việc trong môi trường năng động, thân thiện, linh hoạt;",
+    "Được đóng bảo hiểm xã hội theo quy định;",
+    "Được nghỉ các ngày nghỉ lễ, tết và các ngày nghỉ khác theo quy định của pháp luật Việt Nam;",
+    "Du lịch cùng công ty,…và nhiều quyền lợi khác;"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:28:20",
+  "__v": 0
+},{
+  "_id": "J643c8514253e3fe92da1c1fe",
+  "name": "Nhân Viên Pháp Lý Thu Hồi Công Nợ",
+  "category": "Ngân hàng / Tài chính",
+  "company": "C643c6ef1a6d9a55173f8a998",
+  "place": [
+    "Hồ Chí Minh: Lầu 28, Cao ốc Saigon Trade Centre, 37 Tôn Ðức Thắng, Phường Bến Nghé, Quận 1"
+  ],
+  "salary": "Thỏa thuận",
+  "slot": 5,
+  "deadline": "06/05/2023",
+  "desc": [
+    "Liên hệ, làm việc trực tiếp, yêu cầu thanh toán đối với những khách hàng quá hạn thanh toán.",
+    "Theo dõi và báo cáo định kỳ về cam kết thanh toán của khách hàng, đảm bảo cam kết thanh toán được thực hiện.",
+    "Là đại diện bảo vệ lợi ích hợp pháp của Công ty khi tiến hành giải quyết vụ việc tại cơ quan Tòa án, Thi hành án, Công an và các cơ quan khác có liên quan.",
+    "Soạn và phát hành những tài liệu, thư tín liên quan đến thu hồi công nợ.",
+    "Thương lượng và đề xuất giảm số tiền nghĩa vụ của khách hàng.",
+    "Tiến hành các thủ tục cần thiết để thu hồi tài sản thuê.",
+    "Tìm kiếm khách hàng mua để tiến hành bán thanh lý tài sản thuê.",
+    "Làm việc với các cơ quan Nhà nước có liên quan để thực hiện công việc thu hồi công nợ.",
+    "Kiểm tra tài sản thuê theo chính sách của Công ty.",
+    "Thực hiện các công việc khác do Trưởng phòng/trưởng nhóm phân công."
+  ],
+  "require": [
+    "Tốt nghiệp Đại học chuyên ngành Luật",
+    "Khả năng giao tiếp và đọc viết tiếng Anh tốt.",
+    "Khả năng thương lượng và giao tiếp tốt.",
+    "Sẵn sàng đi công tác theo yêu cầu công việc.",
+    "Khả năng chịu áp lực tốt.",
+    "Có bằng lái xe hạng B2 là một lợi thế.",
+    "Ưu tiên nam, có độ tuổi từ 22 - 30."
+  ],
+  "benefit": [
+    "Thời gian làm việc chỉ 5 ngày/tuần (Thứ hai – Thứ sáu).",
+    "Lương tháng 13, chế độ tăng lương, thưởng hàng năm.",
+    "Xe công ty đưa đón tận nơi khi gặp khách hàng.",
+    "Phụ cấp ăn trưa, điện thoại, cấp máy tính làm việc.",
+    "Teambuilding đẳng cấp 4 sao, 5 sao ở trong và ngoài nước; được công ty tài trợ kinh phí khi đi du lịch và các hoạt động thể thao, dã ngoại,... theo nhóm.",
+    "Ngoài chế độ bảo hiểm theo luật định còn có bảo hiểm sức khỏe và tai nạn 24/24 cho toàn nhân viên.",
+    "Happy Hour, New Year Party, Lucky Draw, Christmas Party, Birthday, xem phim và các hoạt động giải trí khác.",
+    "Được mở rộng mối quan hệ với khách hàng doanh nghiệp.",
+    "Và còn nhiều đãi ngộ khác nữa…"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:30:28",
+  "__v": 0
+},{
+  "_id": "J643c85946e5e22b71ae7f1cc",
+  "name": "Nhân Viên SEO Website",
+  "category": "Hành chính / văn phòng",
+  "company": "C643c6f9f517decb5e85cf063",
+  "place": [
+    "Hồ Chí Minh: 131 CN11, Phường Sơn Kì, Q.Tân Phú"
+  ],
+  "salary": "8 - 15 triệu",
+  "slot": 10,
+  "deadline": "20/05/2023",
+  "desc": [
+    "Lên kế hoạch nội dung SEO theo nhu cầu của người dùng và phù hợp với kết quả hiển thị của Google",
+    "Tối ưu SEO Onpage theo tiêu chuẩn Rank Math và các tiêu chuẩn SEO Onpage phát triển nội bộ",
+    "Xây dựng Liên kết nội bộ tối ưu nhằm nguồn lực PageRank và hành trình mua hàng của khách hàng",
+    "Báo cáo vị trí từ khóa, traffic tự nhiên, hỗ trợ SEO Leader xử lý các sự cố SEO khi phát sinh",
+    "Lên kế hoạch Seo Offpage, Backlink cho hệ thống Website.",
+    "Lên kế hoạch marketing, hệ thống Social",
+    "Sử dụng các công cụ và phương pháp marketing online để đẩy mạnh kết quả Seo.",
+    "Xây dựng hệ thống website vệ tinh.",
+    "Theo dõi thứ hạng từ khóa, lượng truy cập, backlink của Website",
+    "Báo cáo công việc, vị trí từ khóa, lượng truy cập của Website",
+    "Thời gian làm việc : Thứ 2 - Thứ 7. 09h00 - 18h30"
+  ],
+  "require": [
+    "Có kiến thức về quy trình SEO",
+    "Có kỹ năng với HTML, CSS và kỹ thuật SEO",
+    "Ham học hỏi, tư duy tốt",
+    "Tối thiểu 6 tháng đến 2 năm kinh nghiệm SEO, đã thực thi tối thiểu 2 dự án SEO tổng thể trở lên",
+    "Tinh thần cầu tiến, đam mê SEO, có trách nhiệm và tinh thần làm việc nhóm cao.",
+    "Khả năng làm việc với áp lực cao"
+  ],
+  "benefit": [
+    "Mức lương cơ bản từ 8.000.000 - 15.000.000 đồng/ tháng + KPI hoa hồng dự án cùng team . (Leader lương thoả thuận)",
+    "Chuyên tâm thực thi những công việc của một SEOer (thiết kế web, viết nội dung SEO, designer, chăm sóc social)",
+    "Cung cấp đầy đủ các công cụ SEO chuyên nghiệp nhất bạn cần hỗ trợ",
+    "Tham gia miễn phí các khóa học SEO online cơ bản, nâng cao, và những kỹ thuật SEO performance ",
+    "Tăng lương khi có dự án SEO đạt kết quả tốt hoặc có những đóng góp mới về mặt kỹ thuật đem lại hiệu quả thực tế.",
+    "Phụ cấp tăng ca ",
+    "Định kỳ xét tăng lương 2 lần/năm hoặc đột xuất theo đánh giá",
+    "Trợ cấp chứng chỉ liên quan đến vị trí công việc ",
+    "Môi trường làm việc trẻ 9x, năng động , sáng tạo",
+    "Được hưởng các quyền lợi và chế độ theo luật quy định (Các ngày nghỉ lễ, BHXH, BHYT …)"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:32:36",
+  "__v": 0
+},{
+  "_id": "J643c86302993cb0e23c7aa50",
+  "name": "Nhân Viên Kinh Doanh Phân Khúc Cao Cấp Ngành Hàng Nhôm Kính",
+  "category": "Kinh doanh / bán hàng",
+  "company": "C643c6ffe6f9fa3b202521ff4",
+  "place": [
+    "Hà Nội: CMECH HÀ NỘI - Số 26-C3 KĐT Geleximco, Đường Lê Trọng Tấn, Phường Dương Nội, Hà Đông",
+    "Hồ Chí Minh"
+  ],
+  "salary": "10 - 30 triệu",
+  "slot": 15,
+  "deadline": "21/04/2023",
+  "desc": [
+    "Tìm kiếm, duy trì và phát triển mạng lưới khách hàng và đối tác tiềm năng, được hỗ trợ data khách hàng.",
+    "Tư vấn và thuyết phục khách hàng sử dụng sản phẩm/dịch vụ của công ty.",
+    "Chăm sóc Khách hàng cũ",
+    "Tiến hành thủ tục ký kết hợp đồng mới; Thực hiện các nhiệm vụ liên quan trong quá trình triển khai thực hiện hợp đồng. Giám sát quá trình triển khai hợp đồng, chất lượng dịch vụ để khách hàng nhận được những giá trị tốt nhất.",
+    "Phối hợp với bộ phận Marketing lên kế hoạch và triển khai các chương trình ưu đãi vào các dịp lễ, tết; tri ân khách hàng; giới thiệu sản phẩm dịch vụ mới để tiếp cận, thu hút các đối tượng khách hàng."
+  ],
+  "require": [
+    "Yêu thích và đam mê Kinh doanh.",
+    "Có kinh nghiệm, quan hệ trong lĩnh vực xây dựng, nội thất, bất động sản…là 1 lợi thế",
+    "Kỹ năng giao tiếp, thuyết phục, đàm phán tốt",
+    "Sử dụng thành thạo các phần mềm tin học văn phòng.",
+    "Trung thực, chăm chỉ, nhanh nhẹn, cẩn thận, ham học hỏi. Có trách nhiệm, tính tự giác cao"
+  ],
+  "benefit": [
+    "Lương CB 6.000.000đ - 8.000.000đ + Phụ cấp + Hoa hồng kinh doanh cao (Thu Nhập Lên Đến Hơn 30 Triệu/tháng)",
+    "Được hưởng lương 13 hàng năm + Thưởng các ngày Lễ, Tết, sinh nhật, hiếu hỷ...",
+    "Review lương định kỳ 01 lần/năm; Hoặc được xem xét tăng lương theo từng trường hợp đạt thành tích cao trong công việc.",
+    "Đóng BHYT+BHXH+BHTN theo đúng quy định pháp luật",
+    "Có cơ chế công tác phí, chi phí tiếp khách….",
+    "Thời gian làm việc: Từ thứ 2 tới sáng thứ 7 hàng tuần, trưa 8h00 tới 12h00 chiều 13h30 tới 17h30; Nghỉ chiều thứ 7 và chủ nhật. Có 12 ngày phép/năm.",
+    "Định kỳ khám sức khỏe hàng năm",
+    "Được tham gia các kỳ nghỉ, du lịch ít nhất 01 lần trong năm",
+    "Được đào tạo nâng cao kỹ năng chuyên môn",
+    "Tham gia các khóa đào tạo, bồi dưỡng nâng cao trình độ"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:35:12",
+  "__v": 0
+},{
+  "_id": "J643c86d9e67f814bbfeac2fa",
+  "name": "Tư Vấn Thẩm Mỹ",
+  "category": "Tư vấn - Kinh doanh / Bán hàng",
+  "company": "C643c7098ef873ca2344a3ba3",
+  "place": [
+    "Hồ Chí Minh: 60A, Võ Văn Tần, Phường Võ Thị Sáu, Quận 3",
+    "Hà Nội: Ba Đình"
+  ],
+  "salary": "40 - 100 triệu",
+  "slot": 6,
+  "deadline": "11/05/2023",
+  "desc": [
+    "Tìm hiểu nhu cầu của khách hàng về các dịch vụ thẩm mỹ công nghệ cao",
+    "Tư vấn trực tiếp, cung cấp các gói dịch vụ theo đúng nhu cầu khách hàng, chốt đơn, duy trì và mở rộng thêm khách hàng tiềm năng",
+    "Chăm sóc khách hàng sau sử dụng dịch vụ",
+    "Thực hiện KPI cá nhân theo chỉ tiêu của Công ty",
+    "Báo cáo kết quả công việc theo tuần/ tháng/ quý theo yêu cầu của cấp trên"
+  ],
+  "require": [
+    "Nữ, độ tuổi từ 27 - 33 tuổi.",
+    "Ngoại hình sáng, da trắng; cao từ 160cm trở lên.",
+    "Có tối thiểu 02 năm kinh nghiệm làm việc ở vị trí tương đương trong ngành thẩm mỹ, làm đẹp tại các thương hiệu thẩm mỹ viện cao cấp, Mỹ phẩm lớn",
+    "Có khả năng tư vấn, thuyết phục, bán hàng tốt & chịu được áp lực về doanh số",
+    "Thông minh, nhanh nhẹn có khả năng xử ký tình huống tốt.",
+    "Số lượng cần tuyển:<br>+ Hà Nội : 03 người<br>+ Hồ Chí Minh : 03 người"
+  ],
+  "benefit": [
+    "Lương cơ bản: 6 triệu – 8 triệu (tùy vào năng lực) + thưởng KPI cá nhân  + thưởng DS thẻ + thưởng DS mỹ phẩm; tổng thu nhập 40-100tr/tháng",
+    "Phụ cấp ăn trưa, ăn xế (theo suất ăn công ty)",
+    "BHXH và phép năm đầy đủ",
+    "Thưởng lương tháng 13+",
+    "Thưởng lễ, tết và sinh nhật cá nhân",
+    "Xét duyệt tăng lương hằng năm",
+    "Đi du lịch hàng năm",
+    "Môi trường làm việc cao cấp, chuyên nghiệp"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:38:01",
+  "__v": 0
+},{
+  "_id": "J643c874d8c17565acf8242d3",
+  "name": "Nhân Viên Kinh Doanh Thiết Bị Tự Động",
+  "category": "Kinh doanh / bán hàng",
+  "company": "C643c710eb025cd30afccbb88",
+  "place": [
+    "Hồ Chí Minh: 1 Hoa Trà, phường 7, quận Phú Nhuận Hồ Chí Minh, Phú Nhuận"
+  ],
+  "salary": "Trên 10 triệu",
+  "slot": 5,
+  "deadline": "05/05/2023",
+  "desc": [
+    "Thực hiện các nghiệp vụ kinh doanh: Báo giá, đàm phán, thương thảo hợp đồng.",
+    "Theo dõi quá trình thực hiện đơn hàng, xử lý các vấn đề phát sinh liên quan đến đơn hàng. Lập kế hoạch bán hàng, tìm kiếm và phát triển khách hàng mới.",
+    "Thiết lập và duy trì quan hệ tốt với khách hàng, nội bộ để hoàn thành mục tiêu được giao.",
+    "Tìm kiếm nhà cung cấp và mua hàng trong nước.",
+    "Trao đổi cụ thể khi phỏng vấn."
+  ],
+  "require": [
+    "Tốt nghiệp trung cấp trở lên",
+    "Nhanh nhẹn, hoạt bát, thích môi trường năng động, hòa đồng vui vẻ.",
+    "Tự tin, kỹ năng giao tiếp tốt.",
+    "Quyết đoán và chủ động giải quyết tình huống.",
+    "Có động lực, đam mê với nghề Sales.",
+    "Khả năng xây dựng mối quan hệ.",
+    "Kiên trì, tư duy, sáng tạo",
+    "Sinh viên mới ra trường hoặc có kinh nghiệm về thiết bị tự động.",
+    "Thành thạo tin học văn phòng.",
+    "Có khả năng đi công tác.",
+    "Chỉ cần biết tiếng Anh cơ bản (không yêu cầu cao)"
+  ],
+  "benefit": [
+    "Mức lương: Cơ bản + Thưởng tháng + Hoa Hồng trên doanh số => thu nhập trên 10 triệu",
+    "Nhân viên có năng lực tốt có thể ký hợp đồng chính thức khi chưa hết thời gian thử việc.",
+    "Môi trường làm việc năng động, thân thiện, cơ hội thăng tiến. Được đào tạo thêm để nâng cao nghiệp vụ chuyên môn",
+    "Tăng lương theo hiệu quả công việc và cam kết đầy đủ các chế độ dành cho người lao động theo như quy định pháp -luật hiện hành (BHXH, BHYT, BHTN…).",
+    "Có lương tháng thứ 13 theo quy định công ty.",
+    "Được tham gia các hoạt động ngoại khóa: văn nghệ, thể thao, du lịch của Công Ty.",
+    "Thời gian làm việc: full-time. Từ thứ 2 đến thứ 6 + 2 nửa buối thứ 7/ tháng"
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:39:57",
+  "__v": 0
+},{
+  "_id": "J643c87f247e549b6fa69b545",
+  "name": "Kế Toán Kho",
+  "category": "Ngân hàng / Tài chính",
+  "company": "C643c71cf1bf393f9faffbd8a",
+  "place": [
+    "Hồ Chí Minh: 69/2 Phan Anh, Phường Bình Trị Đông, Bình Tân"
+  ],
+  "salary": "9 -10 triệu",
+  "slot": 1,
+  "deadline": "30/04/2023",
+  "desc": [
+    "Kiểm soát hàng hóa và chứng từ xuất/nhập hàng<br>+ Phối hợp với thủ kho, bên giao/ bên nhận kiểm đếm đúng số lượng hàng hóa xuất/nhập kho và lưu nội dung vào sổ ghi chép (kiểm tra ngẫu nhiên hoặc bắt buộc đối với một số nvl có giá trị lớn).<br>+ Kểm tra tính hợp lệ của các chứng từ nhập xuất trước khi lập như số lượng theo kế hoạch, giá theo báo giá của nhà cung cấp,xuất kho theo đề xuất.<br>+ Hàng ngày lập phiếu nhập kho,xuất kho chính xác, kịp thời<br>+ Lưu trữ chứng từ nhập xuất hợp lý để đối chiếu khi cần thiết",
+    "Hạch toán kế toán<br>+ Theo dõi và cung cấp được báo cáo xuất nhập tồn về số lượng và giá trị.<br>+ Phối hợp với kế toán thanh toán để đối chiếu công nợ của các nhà cung cấp chính xác, kịp thời.<br>+ Theo dõi lượng tồn vật tư với định mức tồn kho tối thiểu, kịp thời đề xuất lập kế hoạch dự trữ vật tư để đảm bảo không làm gián đoạn quá trình sản xuất của doanh nghiệp.",
+    "Kiểm kê hàng hóa<br>+ Định kỳ hàng kỳ thực hiện việc kiểm kê hàng hóa, vật tư trong kho.<br>+ Lập biên bản kiểm kê hay biên bản đề xuất xử lý khi phát hiện có sự chênh lệch giữa số liệu trên sổ sách với con số thực tế và báo cáo ngay lên cấp trên.<br>+ Hàng kỳ cung cấp số lượng nhập xuất tồn cho kế hoạch để lên kế hoạch nguyên liệu.",
+    "Các công việc khác<br>+ Tạo các form mẫu phục vụ cho công việc quản lý kho.<br>+ Chuẩn bị cơ sở dữ liệu để nhập liệu trên phần mềm.<br>+ Thực hiện các công việc khác liên quan đến kho khi được cấp trên yêu cầu."
+  ],
+  "require": [
+    "Tốt nghiệp cao đẳng trở lên hoặc trình độ tương đương đáp ứng được yêu cầu công việc.",
+    "Kỹ năng giao tiếp và đàm phán.",
+    "Kỹ năng quản lý tốt các mốt quan hệ – kỹ năng nghe, hiểu biết, giao tiếp và đồng cảm.",
+    "Có kiến thức về kế toán",
+    "Có khả năng làm việc độc lập, chủ động, chịu áp lực",
+    "Có khả năng giao tiếp tốt",
+    "Tin học văn phòng thành thạo"
+  ],
+  "benefit": [
+    "Lương thỏa thuận theo năng lực",
+    "Chế độ đãi ngộ tốt",
+    "Thưởng tháng 13, quà lễ tết",
+    "Chính sách theo luật lao động",
+    "Quy chế lương thưởng, lộ trình thăng tiến rõ ràng."
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:42:42",
+  "__v": 0
+},{
+  "_id": "J643c8865b0aa69a6f3a2bb84",
+  "name": "Nhân Viên Tư Vấn Data Có Sẵn Làm Việc Tại Vp",
+  "category": "Hành chính / văn phòng",
+  "company": "C643c720952428f7ec9b2e251",
+  "place": [
+    "Hồ Chí Minh: Tòa nhà Pico Plaza, Số 20 Cộng Hòa, Phường 12, Tân Bình"
+  ],
+  "salary": "10 -15 triệu",
+  "slot": 10,
+  "deadline": "03/05/2023",
+  "desc": [
+    "Làm việc tại văn phòng",
+    "Giờ hành chính : 8h30 - 17h30 (thứ 7 8h30 - 12h ; CN off)",
+    "Hỗ trợ, chăm sóc khách hàng qua Điện Thoại công ty.",
+    "Hướng dẫn , tiếp nhận và quản lý hồ sơ khách hàng trước và sau khi giải ngân.",
+    "Sẽ được đào tạo thêm trong quá trình làm việc.",
+    "Thu thập thông tin và đóng góp của khách hàng",
+    "Sắp xếp dữ liệu trên hệ thống",
+    "Liên hệ trao đổi và cung cấp thông tin cần thiết cho khách hàng",
+    "Tìm kiếm và khai thác khách hàng tiềm năng."
+  ],
+  "require": [
+    "KHÔNG YÊU CẦU KINH NGHIỆM NHƯNG PHẢI HOÀN THÀNH XONG VIỆC HỌC.",
+    "Hình thức: Fulltime, không nhận Parttime.",
+    "Độ tuổi : 18-25 tuổi",
+    "Giọng nói dễ nghe, siêng năng trong công việc."
+  ],
+  "benefit": [
+    "Được ký hợp đồng lao động, các chế độ, BHYT,BHXH... theo quy định",
+    "Thưởng thi đua hàng thángvà các ngày lễ tết theo luật lao động",
+    "Ðược đào tạo về nghiệp vụ tài chính khi đi làm.",
+    "Du lịch công ty hàng năm.",
+    "Cơ hội thăng tiến cao.",
+    "Cơ hội tham gia các khóa học về kỹ năng mềm.",
+    "Công việc với mức lương ổn định, lâu dài.",
+    "Địa chỉ phỏng vấn:  lầu 14 20A Cộng Hoà P12 Quận Tân Bình."
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:44:37",
+  "__v": 0
+},{
+  "_id": "J643c88d3174585bce2db792c",
+  "name": "Chuyên Viên Vận Hành Tiktok",
+  "category": "Kinh doanh / bán hàng",
+  "company": "C643c7269607079f4929a9704",
+  "place": [
+    "Hồ Chí Minh: 96 Cao Thắng, Phường 4, Quận 3"
+  ],
+  "salary": "Tới 12 triệu",
+  "slot": 1,
+  "deadline": "12/05/2023",
+  "desc": [
+    "Lên kệ sản phẩm (Tiêu đề, hình ảnh chính, chi tiết sản phẩm, giá cả...)",
+    "Quản lý sản phẩm (điều chỉnh tồn kho, cập nhật thông tin sản phẩm)",
+    "Đánh giá sản phẩm (rất quan trọng, thường xuyên chú ý để nắm được tình hình chung. Xuất hiện một lượng lớn các đánh giá thấp trong khoảng thời gian ngắn cần được điều chỉnh kịp thời, đánh giá 1 sao 2 sao là đánh giá thấp)",
+    "Quản lý đơn hàng (xem chi tiết đơn hàng, theo dõi tình hình xuất đơn SKU)",
+    "Quản lý trả hàng (theo dõi định kỳ, đề xuất trả hàng không có nhắc nhở, vượt quá thời gian xử lý sẽ tự động trả hàng)",
+    "Xuất đơn sỉ (thao tác như xuất hàng mẫu, mở trang web, in ra)",
+    "Đăng ký hoạt động sản phẩm (được hỗ trợ khi có 1 lượng lưu lượng truy cập nhất định)",
+    "Phân tích số liệu (rất quan trọng, sản phẩm, livestream, video clip, phân tích số liệu KOL/KOC)\""
+  ],
+  "require": [
+    "Thành thạo thao tác máy tính",
+    "Làm việc cẩn thận, nghiêm túc tận tâm",
+    "Chăm chỉ, có trách nhiệm",
+    "Có tư duy độc lập, khả năng sáng tạo",
+    "Độ tuổi: 20-30",
+    "Có sự am hiểu nhất định về Tiktok",
+    "Ưu tiên có kinh nghiệm vận hành tiktok"
+  ],
+  "benefit": [
+    "Lương 12 triệu + thưởng KPI",
+    "Làm việc trong môi trường năng động, chuyên nghiệp có nhiều cơ hội thăng tiến.",
+    "Cung cấp trang thiết bị đầy đủ để phục vụ công việc.",
+    "Được đóng BHXH, BHYT, BHTN.",
+    "Được hưởng các chính sách phúc lợi theo quy định của công ty."
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:46:27",
+  "__v": 0
+},{
+  "_id": "J643c89358831bc3f83e9b79c",
+  "name": "Ielts Academic Manager / Quản Lý Học Thuật",
+  "category": "Giáo dục / đào tạo",
+  "company": "C643c72bc0fddefdec6d7e56c",
+  "place": [
+    "Hồ Chí Minh: 152-152A, Nguyễn Văn Đậu, Phường 7, Bình Thạnh"
+  ],
+  "salary": "Trên 1,200 USD",
+  "slot": 1,
+  "deadline": "30/04/2023",
+  "desc": [
+    "Quản lý đồng đội của bạn là những Giáo viên dạy IELTS xuất sắc;",
+    "Tổ chức thi IELTS cho khách hàng. Ước tính điểm số và đánh giá điểm mạnh và điểm yếu của khách hàng;",
+    "Lập kế hoạch học tập cho phù hợp với học sinh;",
+    "Dạy IELTS và quản lý lớp học và tài liệu học tập cũng như bài tập về nhà;",
+    "Thực hiện những thay đổi và điều chỉnh cần thiết để điều chỉnh chương trình học cho từng học sinh;",
+    "Tạo báo cáo về kết quả học tập của học sinh;",
+    "Ước tính sự tiến bộ của học sinh và khả năng đạt được mức điểm mục tiêu theo yêu cầu;",
+    "Phối hợp với Quản lý Trung tâm và Quản lý Vận hành để quản lý kiểm soát chất lượng nội bộ nhằm mang lại trải nghiệm nhất quán cho khách hàng;",
+    "Phối hợp với giáo viên và các thành viên trong nhóm tổ chức các workshop Học thuật và hỗ trợ nhóm marketing về mặt phát triển nội dung cho fan page và các chiến dịch truyền thông;",
+    "Nâng cao hiểu biết sâu sắc về chương trình học và tiến hành đào tạo cần thiết cho giáo viên và nhân viên mới."
+  ],
+  "require": [
+    "Có ít nhất 2 năm kinh nghiệm ở vị trí tương đương;",
+    "Tiếng Anh lưu loát (cả trong giao tiếp bằng văn bản và bằng lời nói);",
+    "Có chứng chỉ IELTS từ 8.5 trở lên;",
+    "Chứng chỉ CELTA/ TEFL/ TESOL hoặc chứng chỉ giảng dạy tiếng Anh tương đương;",
+    "Có ít nhất 5 năm kinh nghiệm giảng dạy IELTS;",
+    "Có kinh nghiệm về kiểm soát chất lượng hoặc quản lý hệ thống là một lợi thế;",
+    "Thực hiện tốt cả theo nhóm và cá nhân;",
+    "Sáng tạo và độc lập trong lập kế hoạch và phát triển;",
+    "Giỏi nói trước công chúng và kết nối mạng."
+  ],
+  "benefit": [
+    "Mức lương: tối thiểu 1.200 USD - Cạnh tranh;",
+    "Chế độ phúc lợi cạnh tranh, tăng lương hàng năm theo hiệu quả công việc;",
+    "Thưởng khi đạt target hàng tháng."
+  ],
+  "position_type": "Fulltime",
+  "position": "Nhân viên",
+  "status": true,
+  "createAt": "17/04/2023 06:48:05",
+  "__v": 0
+}]
